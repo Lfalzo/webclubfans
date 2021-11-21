@@ -1,0 +1,16 @@
+main *{
+  text-align: left;  
+  line-height: 30px;
+  margin: 0px auto;
+  width: 90%;
+  align-items: center;
+}
+main section h1,h2{
+  text-align: center;
+}
+
+#UltimasNoticias{
+  background-image: url("../img/backgroundHeader.jpg");
+  color: aliceblue;
+  margin: 0px auto;
+}

@@ -1,0 +1,8 @@
+main {
+    text-align: left;
+    background-image: url("../img/backgroundHeader.jpg");
+    color: aliceblue;
+    margin: 0px auto;
+    width: 90%;
+    min-height: 600px;
+  }
